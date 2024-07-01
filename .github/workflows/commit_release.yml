@@ -33,7 +33,7 @@ jobs:
           git commit -am "Prepare next dev version ${{ github.event.inputs.nextVersion }}-SNAPSHOT"
 
       - name: Create release pull request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           base: master
           branch: release-v${{ github.event.inputs.releaseVersion }}
