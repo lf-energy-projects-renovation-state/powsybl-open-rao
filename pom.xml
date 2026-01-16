@@ -99,7 +99,7 @@
         <junit.bom.version>5.11.3</junit.bom.version>
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
         <logback.version>1.5.6</logback.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.42</lombok.version>
         <maven.compiler.version>3.11.0</maven.compiler.version>
         <maven.dependency.version>3.6.0</maven.dependency.version>
         <maven.deploy.version>3.1.1</maven.deploy.version>
