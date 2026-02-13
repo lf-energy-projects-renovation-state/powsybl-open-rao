@@ -111,7 +111,7 @@
         <powsybl.entsoe.version>3.1.0</powsybl.entsoe.version>
         <powsybl.openloadflow.version>2.1.1</powsybl.openloadflow.version>
         <slf4j.version>2.0.13</slf4j.version>
-        <xmlunit.core.version>2.10.0</xmlunit.core.version>
+        <xmlunit.core.version>2.11.0</xmlunit.core.version>
         <com.networknt.version>1.5.3</com.networknt.version>
         <assertj-core.version>3.27.7</assertj-core.version>
     </properties>
